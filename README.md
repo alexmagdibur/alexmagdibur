@@ -1,4 +1,4 @@
-## Hi there 👋
+## Чисто сваговый чел с бомонки
 
 <!--
 **alexmagdibur/alexmagdibur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
