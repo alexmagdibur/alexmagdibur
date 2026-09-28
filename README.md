@@ -1,6 +1,6 @@
 # Привет, я Александр Магдибур 👋
 
-Учусь на 3 курсе МГТУ им. Н. Э. Баумана, факультет «Информатика и системы управления».
+Учусь на 3 курсе МГТУ им. Н. Э. Баумана, факультет «Информатика и системы управления». Я являюсь амбассадором ВТБ в Бауманке и ивент-менеджером IT-сообщества "БАШНЯ".
 
 **Стек:** HTML, CSS, JavaScript · Java Core · Spring · REST API · PostgreSQL  
 **Сейчас изучаю:** DevOps
@@ -15,7 +15,7 @@
 
 # Hi, I'm Alexander Magdibur 👋
 
-I'm a third-year student at Bauman Moscow State Technical University, Faculty of Informatics and Control Systems.
+I'm a third-year student at Bauman Moscow State Technical University, Faculty of Informatics and Control Systems. Currently I'm a VTB ambassador and an event manager of BASHNYA IT-community
 
 **Tech stack:** HTML, CSS, JavaScript · Java Core · Spring · REST APIs · PostgreSQL  
 **Currently learning:** DevOps
